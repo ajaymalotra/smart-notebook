@@ -1,0 +1,5 @@
+{
+  "name": "Smart Notebook",
+  "description": "Transform PDFs into structured study materials like summaries, flashcards, and quizzes using Gemini AI.",
+  "requestFramePermissions": []
+}
